@@ -1,0 +1,16 @@
+Package: com.cokepokes.SmartGlass-Clip-Saver
+Version: 1.0-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: deb//com.cokepokes.SmartGlass-Clip-Saver_1.0-1_iphoneos-arm.deb
+Size: 226862
+MD5sum: a153538f8de7d13d27252c6bbafdd927
+SHA1: 343b5a74758ad39388b3ff87c0944e91ea5553ed
+SHA256: 2a53c33eec9bb43c70451ab264e0006e5db86c494bd78e7200b6595b1bc6a67d
+Section: Tweaks
+Priority: optional
+Description: Download & save SmartGlass game clips to camera roll.
+Tag: purpose::extension
+Author: CokePokes <cokepokes@gmail.com>
+Dev: cokepokes
+Name: SmartGlass Clip Saver
