@@ -1,0 +1,11 @@
+Origin: Poisoned.in Repo
+Label: KaeoDev
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Main Repository For KaeoDev
+MD5Sum:
+ fdc28b588136ddd70e7dbd3a8731c214 585 Packages
+ 8978f790027c447da488ac7e6a143f29 434 Packages.bz2
